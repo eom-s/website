@@ -12,7 +12,7 @@ li{
 
 p{
     font-family: "Bradley Hand", cursive;
-    font-size: 17px; 
+    font-size: 17px;
 }
 
 
@@ -40,7 +40,7 @@ h4{
 img{
   width: 428px;
   height: auto;
-  border: 15px solid #ffffff; 
+  border: 15px solid white; 
   outline: 5px solid #222222; 
 }
 
@@ -56,16 +56,16 @@ img{
 }
 
 .Hborder{
-    border-left: 4px solid #F5A623; 
+    border-left: 4px solid orange; 
     padding-left: 20px;
 }
 
 .Cborder{
-    border-left: 4px solid #008000; 
+    border-left: 4px solid green; 
     padding-left: 20px;
 }
 
 .Rborder{
-    border-left: 4px solid #fa8072; 
+    border-left: 4px solid salmon; 
     padding-left: 20px;
 }
